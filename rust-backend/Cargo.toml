@@ -1,0 +1,16 @@
+[package]
+name = "rust-backend"
+version = "0.1.0"
+edition = "2021"  # Esta línea debe aparecer solo una vez
+authors = ["Tu Nombre <tu.email@example.com>"]
+description = "A terminal application for macOS"
+
+[dependencies]
+termion = "1.5"
+dirs = "4.0"
+colored = "2.0"
+prettytable = "0.10"
+
+[package.metadata.bundle]
+name = "My Terminal App"
+identifier = "com.diegodev.myterminalapp"

@@ -1,0 +1,10 @@
+/Users/diegodev/Programming/terminal_frontend/my_terminal_app/rust-backend/target/debug/deps/libfiletime-0ea2cc61a11911b3.rmeta: /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/lib.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/mod.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/utimes.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/macos.rs
+
+/Users/diegodev/Programming/terminal_frontend/my_terminal_app/rust-backend/target/debug/deps/libfiletime-0ea2cc61a11911b3.rlib: /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/lib.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/mod.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/utimes.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/macos.rs
+
+/Users/diegodev/Programming/terminal_frontend/my_terminal_app/rust-backend/target/debug/deps/filetime-0ea2cc61a11911b3.d: /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/lib.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/mod.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/utimes.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/macos.rs
+
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/lib.rs:
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/mod.rs:
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/utimes.rs:
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.23/src/unix/macos.rs:

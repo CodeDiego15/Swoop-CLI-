@@ -1,0 +1,11 @@
+/Users/diegodev/Programming/terminal_frontend/my_terminal_app/rust-backend/target/debug/deps/libxattr-4e327d4ecb66ca96.rmeta: /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/diegodev/Programming/terminal_frontend/my_terminal_app/rust-backend/target/debug/deps/libxattr-4e327d4ecb66ca96.rlib: /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/diegodev/Programming/terminal_frontend/my_terminal_app/rust-backend/target/debug/deps/xattr-4e327d4ecb66ca96.d: /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs:
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs:
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs:
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs:
+/Users/diegodev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs:
